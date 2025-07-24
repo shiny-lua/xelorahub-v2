@@ -14,23 +14,8 @@ import TestimonialsSection from "@/components/sections/TestimonialsSection";
 import Footer from "@/components/sections/Footer";
 
 export default function Home() {
-  const [isLoading, setIsLoading] = useState(true);
-
-  useEffect(() => {
-    const timer = setTimeout(() => {
-      setIsLoading(false);
-    }, 1500);
-
-    trackUserIP().catch(console.error);
-
-    return () => clearTimeout(timer);
-  }, []);
-
   return (
     <AnimatePresence mode="wait">
-      {isLoading ? (
-        <LoadingSpinner key="loader" />
-      ) : (
         <motion.div
           key="content"
           initial={{ opacity: 0 }}
@@ -45,7 +30,6 @@ export default function Home() {
           <TestimonialsSection />
           <Footer />
         </motion.div>
-      )}
     </AnimatePresence>
   );
 }

@@ -2,7 +2,7 @@ export const testimonialsData = [
   {
     id: 1,
     image: "/img/testimonials/testimonial-1.png",
-    name: "John Doe",
+    name: "Daniel Niles",
     title: "CEO & Founder",
     rating: 5,
     quote:
@@ -29,7 +29,7 @@ export const testimonialsData = [
   {
     id: 4,
     image: "/img/testimonials/testimonials-5.jpg",
-    name: "Emaly",
+    name: "Emily Rodriguez",
     title: "Freelancer",
     rating: 5,
     quote:
@@ -38,7 +38,7 @@ export const testimonialsData = [
   {
     id: 5,
     image: "/img/testimonials/testimonials-6.png",
-    name: "Jane",
+    name: "Jane Williams",
     title: "Entrepreneur",
     rating: 5,
     quote:
@@ -53,4 +53,4 @@ export const testimonialsData = [
     quote:
       "I highly recommend XELORAHUB for their exceptional service and innovative solutions. Their team is responsive, knowledgeable, and a pleasure to work with.",
   },
-]; 
+];
