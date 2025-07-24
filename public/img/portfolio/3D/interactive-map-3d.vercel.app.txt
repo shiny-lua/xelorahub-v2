@@ -1,0 +1,5 @@
+ - Description
+We developed an immersive 3D mapping platform that allows users to explore and interact with stylized representations of various European cities. This application enables users to navigate through a virtual environment, selecting specific locations to access detailed information, thereby enhancing the real estate browsing experience.
+
+ - Tech
+ Node.js, React, Three.js

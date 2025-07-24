@@ -1,0 +1,5 @@
+ - Description
+We developed a sleek, browser-based 3D home tour that allows users to explore a modern house in a highly interactive and immersive way. The application is designed for real estate marketing, virtual showrooms, and architectural presentations—offering a realistic sense of space and detail directly in the browser.
+
+ - Tech
+ React, Three.js, GSAP

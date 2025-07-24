@@ -1,0 +1,5 @@
+ - Description
+We developed an interactive 3D showroom platform for Volkswagen, enabling users to explore vehicle models like the Tiguan and Taos in a virtual environment. The application offers a seamless and engaging experience, allowing potential customers to interact with 3D models of vehicles, view them from various angles, and access detailed information, enhancing the online car shopping experience.
+
+ - Tech
+ React, Three.js, GSAP

@@ -1,0 +1,5 @@
+ - Description
+ We developed an interactive real estate mapping application that allows users to filter and explore property listings dynamically. The platform leverages advanced web technologies to provide a seamless and responsive user experience, enabling users to visualize properties based on various criteria in real-time
+
+ - Tech
+ React, Mapbox GL JS

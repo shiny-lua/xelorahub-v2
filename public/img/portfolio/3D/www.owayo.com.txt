@@ -1,0 +1,5 @@
+ - Description
+We developed a comprehensive e-commerce platform for Owayo GmbH, a German-based manufacturer specializing in high-quality, customizable sports apparel. The platform enables customers to design and order personalized sportswear for various disciplines, including cycling, running, soccer, basketball, hockey, esports, and more.
+
+ - Tech
+ PHP, Three.js, GSAP

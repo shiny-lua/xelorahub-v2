@@ -1,0 +1,7 @@
+ - Description
+ We developed the official website for C.L. Seifert, a Danish brand with over 150 years of history in premium student cap tailoring. The site offers an immersive and fully customizable experience where students can design their own graduation caps using an intuitive, real-time 3D configurator. The platform supports thousands of personalization combinations, ensuring each user gets a truly unique product.
+
+In addition to the customization experience, we built an integrated e-commerce system, multilingual support, and a CMS for content flexibility—all tailored to meet the client’s brand values and user needs.
+
+ - Tech
+ Next.js, Three.js, Magento, Stripe
